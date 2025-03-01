@@ -1,0 +1,1 @@
+This system includes authentication for secure access. Only the financial manager has the ability to create, update, and delete financial tables. Other users will have limited access based on their roles.
